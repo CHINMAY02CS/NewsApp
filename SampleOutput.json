@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Latest football news and transfers",
+        "description": "All the latest football news and updates, plus transfer latest and build-up to this week's international fixtures.",
+        "url": "http://www.bbc.co.uk/sport/live/football/66714691",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2023-09-05T06:22:19.8514386Z",
+        "content": "The headline writers at the Metro and the Mirror were clearly of the same mind as they go for the exact same back page splash.\r\nSancho, who moved to Old Trafford from Borussia Dortmund for £73m in 20… [+341 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Rob Dawson",
+        "title": "Man United's Antony dropped from Brazil amid investigation - ESPN",
+        "description": "Antony was dropped from the Brazil squad Monday following fresh allegations of domestic violence made against the Manchester United footballer.",
+        "url": "https://www.espn.com/soccer/story/_/id/38329236/man-united-antony-dropped-brazil-amid-investigation",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0904%2Fr1220175_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-09-04T22:04:00Z",
+        "content": "Antony was dropped from the Brazil squad Monday following fresh allegations of domestic violence made against the Manchester United footballer.\r\nThe 23-year-old was named in the squad for CONMEBOL Wo… [+2474 chars]"
+      },
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "Jackson Cole",
+        "title": "Football Association consider Pep Guardiola approach amid suggestions Gareth Southgate could leave as...",
+        "description": "The Football Association is reportedly preparing for Gareth Southgate to leave as England manager after Euro 2024 – and Pep Guardiola could replace him. Southgate has done a fine job since hi…",
+        "url": "https://talksport.com/football/1556251/pep-guardiola-england-job-gareth-southgate-football-association/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/09/OQ-TALKSPORT-PEP-GARETH.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+        "publishedAt": "2023-09-04T21:56:56Z",
+        "content": "The Football Association is reportedly preparing for Gareth Southgate to leave as England manager after Euro 2024 - and Pep Guardiola could replace him. \r\nSouthgate has done a fine job since his appo… [+2399 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Georgia football staffer Jarvis Jones arrested for speeding, reckless driving",
+        "description": "Former Georgia and NFL linebacker Jarvis Jones was arrested for speeding and reckless driving ahead of the Bulldogs’ season opener",
+        "url": "https://abcnews.go.com/Sports/wireStory/georgia-football-staffer-jarvis-jones-arrested-speeding-reckless-102913373",
+        "urlToImage": "https://s.abcnews.com/images/Sports/wirestory_ef30cfbf769c01d4d9fb70a67dce93d9_16x9_992.jpg",
+        "publishedAt": "2023-09-04T18:58:00Z",
+        "content": "ATHENS, Ga. -- Former Georgia and NFL linebacker Jarvis Jones, who now works on the football staff at his alma mater, was arrested for speeding and reckless driving ahead of the Bulldogs' season open… [+1802 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": "David Kenyon",
+        "title": "B/R's College Football Weekly Awards: Week 1",
+        "description": "On the busiest Saturday of the 2023 college football season, Deion Sanders and Colorado stole the show. The offseason overhaul in Boulder immediately produced…",
+        "url": "https://bleacherreport.com/articles/10088132-brs-college-football-weekly-awards-week-1",
+        "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1693764265/pqwhqcacla5go1exv2qf.jpg",
+        "publishedAt": "2023-09-04T13:33:57Z",
+        "content": "Justin Ford/Getty Images\r\nThe Stat-I-Want-to-Share of the Week: Tre Harris, Ole Miss\r\nAs with Jones, it's fair to note the competition; Ole Miss cruised past lower-division Mercer for a 73-7 win. I l… [+959 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "RJ Young",
+        "title": "College football rankings: Colorado moves up after big win; Georgia remains No. 1",
+        "description": "If you didn't believe in Colorado before Week 1, you might want to change your thinking. See where the Buffaloes rank in RJ Young's latest Top 25.",
+        "url": "http://www.foxsports.com/stories/college-football/college-football-rankings-colorado-moves-up-after-big-win-georgia-remains-no-1",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/09/1408/814/09.03.23_RJ-Top-25_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2023-09-04T03:36:00Z",
+        "content": "Many will tell you they always believed Coach Prime could be great at Colorado. But show me one who had them ranked in their preseason poll. I daresay you can't.\r\nI daresay not everyone paid attentio… [+7457 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Eric Karabell",
+        "title": "Josh Jacobs tops 2023 fantasy football Do Not Draft List - ESPN",
+        "description": "Winning a fantasy football league is as much about whom you draft as it is whom you DON'T draft. Eric Karabell makes the case for players you need to avoid this season at their current draft positions.",
+        "url": "https://www.espn.com/fantasy/football/insider/story/_/id/38139231/fantasy-football-players-avoid-draft-strategy-2023",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0805%2Fr1206632_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-08-07T13:37:00Z",
+        "content": "Fantasy football managers and Las Vegas Raiders fans loved what RB Josh Jacobs achieved last season. Jacobs had been a solid statistical performer during his first three NFL seasons, twice ending up … [+10838 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      }
+    ]
+  }
