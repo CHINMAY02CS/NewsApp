@@ -26,7 +26,7 @@ export class News extends Component {
   }
   async componentDidMount() {
     let url =
-      `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b3ae91950a744ab6926f4a5474f8dd84&page=1&pageSize=${this.props.pageSize}`;
+      `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=(write your api key here without parentheses&page=1&pageSize=${this.props.pageSize}`;
       this.setState({loading:true})
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -38,7 +38,7 @@ export class News extends Component {
   }
 
   handlepreclick = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b3ae91950a744ab6926f4a5474f8dd84&page=${
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=(write your api key here without parentheses&page=${
       this.state.page- 1
     }&pageSize=${this.props.pageSize}`;
     this.setState({loading:true})
@@ -52,7 +52,7 @@ export class News extends Component {
     });
   };
   handlenextclick = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b3ae91950a744ab6926f4a5474f8dd84&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=(write your api key here without parentheses&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
     this.setState({loading:true})
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -79,7 +79,7 @@ export class News extends Component {
                     element.description ? element.description.slice(0, 50) : ""
                   }
                   imageurl={element.urlToImage ? element.urlToImage : ""}
-                  newsurl={element.url}
+                  newsurl={element.url} author = {element.author?element.author:"unknown"} publishedAt = {element.publishedAt}
                 />{" "}
               </div>
             );
